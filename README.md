@@ -14,4 +14,6 @@ Page_Controller:
   extensions:
     - Page_ControllerExtension
 
+```
+
 blocks can then be inserted into content using [block-$ID]
