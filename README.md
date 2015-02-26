@@ -1,7 +1,7 @@
 # silverstripe-content-blocks
 A simple module for inserting blocks into page content
 
-instaltion
+## instalation
 
 to install module add the extension to config.yml and dev/build?flush=1
 
