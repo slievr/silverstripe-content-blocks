@@ -3,7 +3,7 @@ A simple module for inserting blocks into page content
 
 ## instalation
 
-to install module add the extension to config.yml and dev/build?flush=1
+to install module add the extensions to config.yml and dev/build?flush=1
 
 ```
 Page:
