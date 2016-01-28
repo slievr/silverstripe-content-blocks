@@ -1,1 +1,10 @@
+---
+Name: contentblocks
+---
+Page:
+  extensions:
+    - BlocksExtension
 
+Page_Controller:
+  extensions:
+    - Page_ControllerExtension
