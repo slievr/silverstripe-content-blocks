@@ -3,17 +3,6 @@ A simple module for inserting blocks into page content
 
 ## instalation
 
-to install module add the extensions to config.yml and dev/build?flush=1
-
-```
-Page:
-  extensions:
-    - BlocksExtension
-
-Page_Controller:
-  extensions:
-    - Page_ControllerExtension
-
-```
+simply copy the code into your route directory and /dev/build
 
 blocks can then be inserted into content using [block-$ID]
