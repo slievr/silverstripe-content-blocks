@@ -20,6 +20,6 @@
 		"issues": "https://github.com/slievr/silverstripe-content-blocks/issues"
 	}
 	"replace": {
-		"silverstripe/event-calendar": "*"
+		"slievr/content-blocks": "*"
 	}
 }
