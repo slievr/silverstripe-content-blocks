@@ -19,7 +19,4 @@
 	"support": {
 		"issues": "https://github.com/slievr/silverstripe-content-blocks/issues"
 	}
-	"replace": {
-		"slievr/content-blocks": "*"
-	}
 }
